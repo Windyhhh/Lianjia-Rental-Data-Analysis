@@ -1,0 +1,137 @@
+[
+  {
+    "name": "首开国风长安",
+    "house_type": "普通住宅",
+    "location": "朝阳区 亦庄",
+    "room_type": "2居2厅",
+    "area": "89.0㎡",
+    "unit_price": "58000元/㎡",
+    "total_price": "516.2万元"
+  },
+  {
+    "name": "万科翡翠别墅",
+    "house_type": "别墅",
+    "location": "海淀区 西北旺",
+    "room_type": "4居3厅",
+    "area": "320.0㎡",
+    "unit_price": "105000元/㎡",
+    "total_price": "3360万元"
+  },
+  {
+    "name": "金科智慧小镇",
+    "house_type": "公寓",
+    "location": "昌平区 回龙观",
+    "room_type": "2居1厅",
+    "area": "75.5㎡",
+    "unit_price": "42000元/㎡",
+    "total_price": "317.1万元"
+  },
+  {
+    "name": "中国尊府",
+    "house_type": "普通住宅",
+    "location": "西城区 金融街",
+    "room_type": "3居2厅",
+    "area": "127.0㎡",
+    "unit_price": "95000元/㎡",
+    "total_price": "1206.5万元"
+  },
+  {
+    "name": "绿地城际空间站",
+    "house_type": "公寓",
+    "location": "朝阳区 顺义",
+    "room_type": "1居1厅",
+    "area": "45.0㎡",
+    "unit_price": "38000元/㎡",
+    "total_price": "171万元"
+  },
+  {
+    "name": "招商1872·天澜樾",
+    "house_type": "普通住宅",
+    "location": "丰台区 丰台科技园",
+    "room_type": "2居2厅",
+    "area": "96.0㎡",
+    "unit_price": "52000元/㎡",
+    "total_price": "499.2万元"
+  },
+  {
+    "name": "保利剧院城",
+    "house_type": "普通住宅",
+    "location": "东城区 朝阳门",
+    "room_type": "3居3厅",
+    "area": "142.0㎡",
+    "unit_price": "118000元/㎡",
+    "total_price": "1675.6万元"
+  },
+  {
+    "name": "中骏湾RUSH",
+    "house_type": "公寓",
+    "location": "朝阳区 三里屯",
+    "room_type": "1居1厅",
+    "area": "48.0㎡",
+    "unit_price": "125000元/㎡",
+    "total_price": "600万元"
+  },
+  {
+    "name": "融创西山壹号院",
+    "house_type": "别墅",
+    "location": "海淀区 香山",
+    "room_type": "5居4厅",
+    "area": "450.0㎡",
+    "unit_price": "150000元/㎡",
+    "total_price": "6750万元"
+  },
+  {
+    "name": "龙湖春江郦城",
+    "house_type": "普通住宅",
+    "location": "大兴区 亦庄",
+    "room_type": "2居2厅",
+    "area": "88.0㎡",
+    "unit_price": "45000元/㎡",
+    "total_price": "396万元"
+  },
+  {
+    "name": "旭辉城",
+    "house_type": "普通住宅",
+    "location": "朝阳区 青年路",
+    "room_type": "3居2厅",
+    "area": "118.0㎡",
+    "unit_price": "68000元/㎡",
+    "total_price": "802.4万元"
+  },
+  {
+    "name": "中粮瑞府",
+    "house_type": "普通住宅",
+    "location": "西城区 北京西站",
+    "room_type": "2居2厅",
+    "area": "92.0㎡",
+    "unit_price": "92000元/㎡",
+    "total_price": "846.4万元"
+  },
+  {
+    "name": "首创悦享生活",
+    "house_type": "公寓",
+    "location": "东城区 东二环",
+    "room_type": "1居1厅",
+    "area": "52.0㎡",
+    "unit_price": "88000元/㎡",
+    "total_price": "457.6万元"
+  },
+  {
+    "name": "华润叡府",
+    "house_type": "普通住宅",
+    "location": "丰台区 卢沟桥",
+    "room_type": "3居2厅",
+    "area": "125.0㎡",
+    "unit_price": "48000元/㎡",
+    "total_price": "600万元"
+  },
+  {
+    "name": "新鸿基·水湾",
+    "house_type": "普通住宅",
+    "location": "朝阳区 望京",
+    "room_type": "2居2厅",
+    "area": "99.0㎡",
+    "unit_price": "75000元/㎡",
+    "total_price": "742.5万元"
+  }
+]
