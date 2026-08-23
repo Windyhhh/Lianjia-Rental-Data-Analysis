@@ -1,0 +1,107 @@
+[
+  {
+    "community_name": "朝阳门北大街",
+    "location": "东城区 朝阳门",
+    "room_type": "2室1厅",
+    "unit_price": "12.5万元/月",
+    "total_price": "650万元"
+  },
+  {
+    "community_name": "复兴路甲12号",
+    "location": "西城区 金融街",
+    "room_type": "3室2厅",
+    "unit_price": "15.8万元/月",
+    "total_price": "950万元"
+  },
+  {
+    "community_name": "广渠门外大街",
+    "location": "朝阳区 广渠门",
+    "room_type": "2室1厅",
+    "unit_price": "10.2万元/月",
+    "total_price": "520万元"
+  },
+  {
+    "community_name": "三元桥",
+    "location": "朝阳区 工体",
+    "room_type": "1室1厅",
+    "unit_price": "8.5万元/月",
+    "total_price": "380万元"
+  },
+  {
+    "community_name": "北京饭店",
+    "location": "东城区 天安门",
+    "room_type": "2室2厅",
+    "unit_price": "18.5万元/月",
+    "total_price": "1200万元"
+  },
+  {
+    "community_name": "西单北大街",
+    "location": "西城区 西单",
+    "room_type": "3室1厅",
+    "unit_price": "16.2万元/月",
+    "total_price": "980万元"
+  },
+  {
+    "community_name": "亚运村",
+    "location": "朝阳区 亚运村",
+    "room_type": "2室1厅",
+    "unit_price": "9.8万元/月",
+    "total_price": "480万元"
+  },
+  {
+    "community_name": "望京高科技园",
+    "location": "朝阳区 望京",
+    "room_type": "2室2厅",
+    "unit_price": "11.5万元/月",
+    "total_price": "650万元"
+  },
+  {
+    "community_name": "建国路99号",
+    "location": "朝阳区 建国路",
+    "room_type": "1室1厅",
+    "unit_price": "7.8万元/月",
+    "total_price": "320万元"
+  },
+  {
+    "community_name": "中关村大街",
+    "location": "海淀区 中关村",
+    "room_type": "2室1厅",
+    "unit_price": "10.5万元/月",
+    "total_price": "550万元"
+  },
+  {
+    "community_name": "知春路",
+    "location": "海淀区 知春路",
+    "room_type": "3室2厅",
+    "unit_price": "14.2万元/月",
+    "total_price": "850万元"
+  },
+  {
+    "community_name": "上地信息路",
+    "location": "海淀区 上地",
+    "room_type": "2室1厅",
+    "unit_price": "9.2万元/月",
+    "total_price": "460万元"
+  },
+  {
+    "community_name": "青年街",
+    "location": "朝阳区 青年街",
+    "room_type": "2室2厅",
+    "unit_price": "12.8万元/月",
+    "total_price": "720万元"
+  },
+  {
+    "community_name": "丰台桥",
+    "location": "丰台区 丰台",
+    "room_type": "2室1厅",
+    "unit_price": "7.5万元/月",
+    "total_price": "380万元"
+  },
+  {
+    "community_name": "宣武门西大街",
+    "location": "西城区 宣武门",
+    "room_type": "1室1厅",
+    "unit_price": "9.8万元/月",
+    "total_price": "420万元"
+  }
+]
