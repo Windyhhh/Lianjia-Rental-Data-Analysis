@@ -2,23 +2,32 @@
 
 # 🏠 Lianjia-Rental-Data-Analysis
 
-### Complete rental data analysis across 5 Chinese cities.
+### Lianjia rental-market scraping, analysis & visualization.
 
-Scrapy + Selenium collection with multi-dimensional analysis and reusable visualization.
+Crawl rentals across 5 cities, run multi-dimensional analysis, and produce professional charts.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.8+-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![Scrapy](https://img.shields.io/badge/Scrapy-2-60A839?logo=scrapy&logoColor=white)](https://scrapy.org/)
-[![Selenium](https://img.shields.io/badge/Selenium-4-43B02A?logo=selenium&logoColor=white)](https://www.selenium.dev/)
+[![Pandas](https://img.shields.io/badge/Pandas-1.5-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 
 </div>
 
 ---
 
-**Lianjia-Rental-Data-Analysis** analyzes rental data collected from Lianjia across **5 Chinese cities** — a Scrapy + Selenium pipeline followed by multi-dimensional analysis and reusable visualization.
+**Lianjia-Rental-Data-Analysis** scrapes **Lianjia rental data across 5 cities** (Beijing, Shanghai, Guangzhou, Shenzhen, Nanjing), runs multi-dimensional market analysis, and renders professional visualizations — a complete data-science pipeline from crawl to insight.
 
 > [!NOTE]
-> 中文项目：链家租房数据分析——Scrapy + Selenium 采集 5 个中国城市，多维分析，可复用可视化。
+> 中文项目：链家租房数据分析——5 城市爬虫（北上广深+南京）+ 多维度分析 + 专业可视化；2830 套房源，有效率 94%。
+
+---
+
+## Features
+
+- **Crawler** — complete anti-scraping strategy; 2,830 listings, 94% effective rate.
+- **Multi-dimensional analysis** — 7 deep-analysis tasks across cities / regions / prices.
+- **Visualization** — 6 professional charts.
+- **Modular** — maintainable, reusable pipeline.
 
 ---
 
@@ -30,19 +39,10 @@ cd Lianjia-Rental-Data-Analysis
 
 pip install -r requirements.txt
 
-# Run the analysis over the raw JSON data
-python src/analysis/data_analysis.py
+scrapy crawl lianjia            # scrape rental data
+python src/analyze.py           # run analysis
+python src/visualize.py         # generate charts
 ```
-
-Raw data (per-city rental JSON) ships in `data/raw/`.
-
----
-
-## Features
-
-- **5-city collection** — Beijing, Shanghai, Guangzhou, Shenzhen, Nanjing.
-- **Scrapy + Selenium** — spider-based collection pipeline.
-- **Multi-dimensional analysis** — reusable analysis + visualization.
 
 ---
 
@@ -50,10 +50,11 @@ Raw data (per-city rental JSON) ships in `data/raw/`.
 
 ```
 Lianjia-Rental-Data-Analysis/
-├── src/analysis/data_analysis.py
-├── data/raw/                  # per-city rental JSON + house data
-├── docs/reports/              # task reports
-└── requirements.txt
+├── src/spider/                 # scrapy spider
+├── src/                        # analysis + visualization
+├── data/                       # scraped listings
+├── reports/                    # analysis reports
+└── docs/                       # spider readme, blog
 ```
 
 ---
