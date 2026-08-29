@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🏠 Lianjia-Rental-Data-Analysis
+# 链家租房数据分析 | Lianjia-Rental-Data-Analysis
 
 ### Lianjia rental-market scraping, analysis & visualization.
 
